@@ -1,0 +1,1 @@
+sspo@sspo-X750JB:~/IdeaProjects/FrmwrkSpring1MnvProject$ mvn archetype:generate -DgroupId=ru.sspo.app -DartifactId=frmwrk-spring-1-mvn -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5 -DinteractiveMode=false
